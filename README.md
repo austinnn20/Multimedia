@@ -16,3 +16,5 @@ PPT Topic = https://docs.google.com/presentation/d/1ad4XCKZREc3Z6CTTbDMgqUjtc6Lr
 Final PPT = https://www.canva.com/design/DAFlbiJNVag/UQzqhXjYcDfo8iq1YYoS5A/edit?utm_content=DAFlbiJNVag&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 GSLC Video Link = https://binusianorg-my.sharepoint.com/personal/nathan_setiawan_binus_ac_id/_layouts/15/guestaccess.aspx?folderid=017bc1dcb6f5b48ac95f804d00df9e04c&authkey=AbX8doNcP8y7agB7MEtWWZk&e=Vfn3PS
+
+Figma Link = https://www.figma.com/file/POJoblgvdHlmUhkXB9aJc4/Mulmed?type=design&node-id=10%3A75&t=qj5BHrjZEmD8mvt7-1
